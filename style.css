@@ -1,24 +1,52 @@
- <style>
-       
-        h2 {
-            color:rgb(37, 56, 115);
-            background-color: rgb(255, 255, 255);
-        }
+<style>
+        .title {
+            font-size:60px;
 
-        h1 {
-            color:rgb(37, 56, 115);
-            background-color: rgb(255, 255, 255);
         }
-
-        p {
-            color:rgb(255, 255, 255);
-        }
-
         body {
-            background-color: rgb(37, 56, 115);
+            background-image:url(https://wallpapersok.com/images/high/plain-dark-green-gradient-iphone-s7u52fc1j3to6ntg.jpg);
+            background-size:2000px;
         }
-        th {
-            color: rgb(255, 255, 255);
+        p {
+            font-weight:10px;
+            color:white;
+            font-family:verdana;
+            font-size:16px;
         }
-       
-    </style>  
+        .white {
+            font-weight:10px;
+            color:white;
+            font-family:verdana;
+            font-size:16px;
+            margin-left: 821px;
+        }
+        h1 {
+            color:rgb(0, 23, 4);
+            font-family:courier new;
+            background-color:whitesmoke;
+        }
+        h2 {
+            color:rgb(0, 23, 4);
+            background-color:whitesmoke;
+            font-family:courier new;
+        }
+        .right {
+            float:right;
+            width:50%;
+            margin-left:30px;
+        }
+        .alignment {
+            margin-top:35.5px;
+        }
+        .hover1:hover {
+            background-color:rgb(178, 217, 183);
+        }
+        .clouds{
+            background-image:url(https://wallpapers.com/images/hd/snowy-mountain-background-nw0jksqjw85lyqjg.jpg);
+        }
+        .centerline{
+            float: centre;
+            margin-left:400px;
+            margin-right:400px;
+        }
+ </style>  
